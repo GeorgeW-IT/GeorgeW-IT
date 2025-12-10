@@ -1,6 +1,6 @@
 # Hi, I'm George!
   
-### Aspiring IT professional — interested in Networking, Security, Cloud and Hands-on tech projects.
+#### Passionate about IT and networking. I enjoy hands-on projects, building custom networks, and experimenting with new technologies. These projects help me deepen my skills and understand how real systems work.
 
 ## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
 
