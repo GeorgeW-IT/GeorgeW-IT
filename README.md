@@ -1,6 +1,6 @@
-<h1>Hi, I'm George! 
+# Hi, I'm George!
   
-<br/><a>Networking</a>, <a>CyberSecurity</a> </h1>
+### Aspiring IT professional — interested in networking,Security, cloud and hands-on tech projects.
 
 ## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
 
