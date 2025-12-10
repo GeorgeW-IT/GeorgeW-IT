@@ -2,12 +2,16 @@
   
 <br/><a>Networking</a>, <a>CyberSecurity</a> </h1>
 
-<h2>👨‍💻Projects:</h2>
+##👨‍💻Projects
 
 - Active Directory on Azure Cloud using VMs
 - AWS Cloud hosted website using HTML and CSS
 
-<h2>Certifications (https://github.com/GeorgeW-IT/Certifications)</h2> 
+## 🎓[Certifications](https://github.com/GeorgeW-IT/Certifications)
+
+- Google IT Support Professional Certificate
+- Google Cyber Security Certificate
+- Python for Everybody Specialisation</h2> 
 
 - Google IT Support Professional Certificate
 
