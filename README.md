@@ -2,7 +2,7 @@
   
 <br/><a>Networking</a>, <a>CyberSecurity</a> </h1>
 
-##👨‍💻Projects
+## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
 
 - Active Directory on Azure Cloud using VMs
 - AWS Cloud hosted website using HTML and CSS
