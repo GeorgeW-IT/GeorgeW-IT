@@ -7,7 +7,7 @@
 - Active Directory on Azure Cloud using VMs
 - AWS Cloud hosted website using HTML and CSS
 
-<h2>[Certifications](https://github.com/GeorgeW-IT/Certifications)</h2> 
+<h2>Certifications (https://github.com/GeorgeW-IT/Certifications)</h2> 
 
 - Google IT Support Professional Certificate
 
