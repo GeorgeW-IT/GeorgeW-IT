@@ -4,7 +4,8 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- 
+- Active Directory on Azure Cloud using VMs
+- AWS Cloud hosted website using HTML and CSS
 
 <h2>Cerifications</h2>
 
