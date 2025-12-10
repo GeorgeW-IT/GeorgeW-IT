@@ -1,6 +1,6 @@
 # Hi, I'm George!
   
-### Aspiring IT professional — interested in networking,Security, cloud and hands-on tech projects.
+### Aspiring IT professional — interested in Networking, Security, Cloud and Hands-on tech projects.
 
 ## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
 
