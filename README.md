@@ -20,13 +20,9 @@
 
 ### 🤳 Connect with me:
 
-<a href="mailto:georgewhatleygw@gmail.com" title="Email me">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="36" height="36" style="vertical-align:middle;">
-</a>
+📩 [Email me](mailto:georgewhatleygw@gmail.com)
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin-username" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" style="vertical-align:middle;">
-</a>
+🔵 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
