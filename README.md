@@ -20,12 +20,12 @@
 
 ### 🤳 Connect with me:
 
-<a href="mailto:georgewhatleygw@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+<a href="mailto:georgewhatleygw@gmail.com" title="Email me">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="36" height="36" style="vertical-align:middle;">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin-username">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+<a href="https://www.linkedin.com/in/your-linkedin-username" title="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" style="vertical-align:middle;">
 </a>
 
 <!--
