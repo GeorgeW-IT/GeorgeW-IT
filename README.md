@@ -20,6 +20,14 @@
 
 ### 🤳 Connect with me:
 
+<a href="mailto:georgewhatleygw@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
