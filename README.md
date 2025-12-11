@@ -5,8 +5,8 @@
 ## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
 
 
-- **[Active Directory on Azure Cloud using VMs](https://github.com/GeorgeW-IT/ActiveDirectory)**
-- **[AWS Cloud hosted website using HTML and CSS](https://github.com/GeorgeW-IT/AWS-Website)**
+- **[Active Directory on Azure Cloud](https://github.com/GeorgeW-IT/ActiveDirectory)**
+- **[AWS Cloud Hosted Website](https://github.com/GeorgeW-IT/AWS-Website)**
 
 ## 🎓[Certifications](https://github.com/GeorgeW-IT/Certifications)
 
