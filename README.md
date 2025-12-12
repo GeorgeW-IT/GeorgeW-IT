@@ -11,9 +11,9 @@
 ## 🎓Certifications
 
 
-- **[Google IT Support Professional Certificate]
-- **[Google Cyber Security Certificate]
-- **[Python for Everybody Specialisation] 
+- [Google IT Support Professional Certificate](https://github.com/GeorgeW-IT/Certifications?tab=readme-ov-file)
+- [Google Cyber Security Certificate](https://github.com/GeorgeW-IT/Certifications?tab=readme-ov-file)
+- [Python for Everybody Specialisation](https://github.com/GeorgeW-IT/Certifications?tab=readme-ov-file) 
 
 
 ### 🤳 Connect with me:
