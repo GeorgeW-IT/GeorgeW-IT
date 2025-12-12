@@ -11,9 +11,9 @@
 ## 🎓Certifications
 
 
-- Google IT Support Professional Certificate
-- Google Cyber Security Certificate
-- Python for Everybody Specialisation</h2> 
+- **[Google IT Support Professional Certificate]
+- **[Google Cyber Security Certificate]
+- **[Python for Everybody Specialisation] 
 
 
 ### 🤳 Connect with me:
