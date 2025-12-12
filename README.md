@@ -2,13 +2,13 @@
   
 #### Passionate about IT and networking. I enjoy hands-on projects, building custom networks, and experimenting with new technologies. These projects help me deepen my skills and understand how real systems work.
 
-## 👨‍💻[Projects](https://github.com/GeorgeW-IT/Projects)
+## 👨‍💻Projects
 
 
 - **[Active Directory on Azure Cloud](https://github.com/GeorgeW-IT/ActiveDirectory)**
 - **[AWS Cloud Hosted Website](https://github.com/GeorgeW-IT/AWS-Website)**
 
-## 🎓[Certifications](https://github.com/GeorgeW-IT/Certifications)
+## 🎓Certifications
 
 
 - Google IT Support Professional Certificate
