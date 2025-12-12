@@ -1,6 +1,6 @@
 # Hi, I'm George!
   
-#### Passionate about IT and networking. I enjoy hands-on projects, building custom networks, and experimenting with new technologies. These projects help me deepen my skills and understand how real systems work.
+#### Passionate about IT and networking. I enjoy hands-on projects, building custom networks, and experimenting with new technologies. 
 
 ## 👨‍💻Projects
 
