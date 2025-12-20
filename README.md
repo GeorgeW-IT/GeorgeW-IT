@@ -19,4 +19,4 @@
 
 📩 [Email me](mailto:georgewhatleygw@gmail.com)
 &nbsp;&nbsp;
-🔵 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/george-whatley-1293261a3)
+🔵 [LinkedIn](https://www.linkedin.com/in/george-whatley-1293261a3/)
